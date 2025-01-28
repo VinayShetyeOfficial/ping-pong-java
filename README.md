@@ -73,7 +73,7 @@ java new-version.PongGame
 
 ```
 ping-pong-java
-├── old-version           # Legacy version
+├── old-version          # Legacy version
 │   ├── Ball.java
 │   ├── GameFrame.java
 │   ├── GamePanel.java
@@ -134,16 +134,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👏 Acknowledgments
-
-- Original Pong game by Atari
-- Java Swing documentation
-- Sound effects from [source-name]
+This project is licensed under the [MIT License](./LICENSE) - see the [LICENSE](./LICENSE) file for details.
 
 ## 📧 Contact
 
-Vinay Shetye - [GitHub](https://github.com/VinayShetyeOfficial) - vinay.shetye.personal@outlook.com
-
+Vinay Shetye - [GitHub](https://github.com/VinayShetyeOfficial) - vinay.shetye.personal@outlook.com <br>
 Project Link: [https://github.com/VinayShetyeOfficial/ping-pong-java](https://github.com/VinayShetyeOfficial/ping-pong-java)
