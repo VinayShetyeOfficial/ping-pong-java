@@ -73,26 +73,27 @@ java new-version.PongGame
 
 ```
 ping-pong-java
-├── old-version          # Legacy version
-│   ├── Ball.java
-│   ├── GameFrame.java
-│   ├── GamePanel.java
-│   ├── Paddle.java
-│   ├── PongGame.java
-│   └── Score.java
-├── new-version          # Current game version
-    ├── sound_files
-    │   ├── ball_hit.wav
-    │   ├── ball_bounce.wav
-    │   └── game_music.wav
-    ├── Ball.java       # Ball mechanics
-    ├── GameFrame.java  # Game window management
-    ├── GamePanel.java  # Main game logic
-    ├── Paddle.java     # Paddle mechanics
-    ├── PongGame.java   # Game initialization
-    ├── Score.java      # Score tracking
-    └── SoundManager.java # Audio management
-
+├── new-version
+│  ├── asset
+│  │  ├── ball_hit.wav
+│  │  ├── ball_bounce.wav
+│  │  └── game_music.wav
+│  ├── Ball.java
+│  ├── GameFrame.java
+│  ├── GamePanel.java
+│  ├── Paddle.java
+│  ├── PongGame.java
+│  ├── Score.java
+│  └── SoundManager.java
+├── old-version
+│  ├── Ball.java
+│  ├── GameFrame.java
+│  ├── GamePanel.java
+│  ├── Paddle.java
+│  ├── PongGame.java
+│  └── Score.java
+├── LICENSE
+└── README.md
 ```
 
 ## 🛠️ Built With
