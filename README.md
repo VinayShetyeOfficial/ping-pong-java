@@ -13,7 +13,7 @@ _Gameplay_
 ### Legacy Version
 
 _Gameplay of the Original Version_
-![Old Gameplay](gameplay.png)
+![Gameplay](gameplay..png)
 
 ## ✨ Features
 
